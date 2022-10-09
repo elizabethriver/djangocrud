@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+
+li{
+    list-style: none;
+}
+ul{
+    padding-left: 0;
+}
+.container_list{
+    width: 300px;
+    margin-top: 1rem;
+}
