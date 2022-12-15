@@ -1,2 +1,2 @@
-# fontawesomefree==6.2.0
-django-tooltips==1.1.5
+fontawesomefree==6.2.1
+Django===4.1.4
